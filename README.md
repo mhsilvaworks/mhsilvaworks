@@ -10,7 +10,7 @@
 
 ## 👨💻 Sobre Mim
 
-Meu nome é **Matheus Henrique**, um estudante dedicado de **Ciência da Computação** na UNICEUB, com uma grande paixão por desvendar os mistérios do **Machine Learning** e da **cybersecurity**. Minha jornada no mundo da tecnologia é impulsionada pela curiosidade e pelo desejo de criar soluções inovadoras.
+Meu nome é **Matheus Henrique**, um estudante dedicado de **Ciência da Computação** no CEUB, com uma grande paixão por desvendar os mistérios do **Machine Learning** e da **cybersecurity**. Minha jornada no mundo da tecnologia é impulsionada pela curiosidade e pelo desejo de criar soluções inovadoras.
 
 ---
 
