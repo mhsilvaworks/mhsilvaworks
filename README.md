@@ -22,7 +22,7 @@ Aqui você acompanha minha evolução, desde os fundamentos de lógica e HTML at
   <img src="assets/boneco_correndo.gif" alt="Boneco de palito correndo" width="200">
 </p>
 
-Um dos meus principais objetivos é **ingressar em um estágio** que me permita aplicar meus conhecimentos em cenários reais, especialmente na área de **Cybersecurity** com foco em Machine Learning. Além disso, estou entusiasmado com a possibilidade de **contribuir para a comunidade científica** através do meu projeto de iniciação científica, caso seja aprovado.
+Um dos meus principais objetivos é **ingressar em um estágio** que me permita aplicar meus conhecimentos em cenários reais, especialmente na área de **Cybersecurity** com foco em Machine Learning.
 
 ---
 
