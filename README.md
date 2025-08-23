@@ -47,8 +47,8 @@ Um dos meus principais objetivos é **ingressar em um estágio** que me permita 
 
 * Certificado de Lógica
 * Certificado de HTML
-* Curso de Python (em andamento)
-* [Adicione outros cursos e certificações relevantes]
+* Certificado de Python 
+
 
 ---
 
