@@ -10,13 +10,13 @@
 
 ## 👨💻 Sobre Mim
 
-Meu nome é **Matheus Henrique**, um estudante dedicado de **Ciência da Computação** no CEUB, com uma grande paixão por desvendar os mistérios do **Machine Learning** e da **cybersecurity**. Minha jornada no mundo da tecnologia é impulsionada pela curiosidade e pelo desejo de criar soluções inovadoras.
+Meu nome é **Matheus Henrique**, um estudante dedicado de **Ciência da Computação** no CEUB, com uma grande paixão por desvendar os mistérios do **Machine Learning** e da ciência de dados. Minha jornada no mundo da tecnologia é impulsionada pela curiosidade e pelo desejo de criar soluções inovadoras.
 
 ---
 
 ## 🚀 Minha Trajetória e Objetivos
 
-Aqui você acompanha minha evolução, desde os fundamentos de lógica e HTML até minha imersão no fascinante universo do Python, mas também minha evolção em linguagem c e meu objetivo de me tornar um especialista em **Machine Learning**. Tenho um interesse especial em aplicar esses conhecimentos na área de **Cybersecurity**.
+Aqui você acompanha minha evolução, desde os fundamentos de lógica e HTML até minha imersão no fascinante universo do Python, mas também minha evolção em linguagem c e meu objetivo de me tornar um especialista em **Machine Learning**. Tenho um interesse especial em aplicar esses conhecimentos na área de ciência de dados.
 
 <p align="center">
   <img src="assets/boneco_correndo.gif" alt="Boneco de palito correndo" width="200">
@@ -29,7 +29,7 @@ Um dos meus principais objetivos é **ingressar em um estágio** que me permita 
 ## 🛠️ Habilidades em Destaque
 
 * **Linguagens de Programação:**
-    * `Python` (em aprendizado constante)
+    * `Python` 
     * `HTML` (em aprendizado)
     * `C` ( em aprendizado)
 * **Conceitos Fundamentais:**
@@ -38,7 +38,6 @@ Um dos meus principais objetivos é **ingressar em um estágio** que me permita 
     * Algoritmos
 * **Áreas de Interesse:**
     * **Machine Learning**
-    * **Cybersecurity**
     * Inteligência Artificial
 
 ---
@@ -76,7 +75,7 @@ Sinta-se à vontade para explorar meus projetos e contribuir! Estou sempre abert
 
 ---
 
-✨ *"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."* - Leonardo da Vinci
+
 
 ## Projetos Futuros
 
