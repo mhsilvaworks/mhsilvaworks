@@ -1,7 +1,7 @@
 # Olá! 👋 Seja bem-vindo ao meu espaço GitHub!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-henrique-842727355)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheushenrique_slv?igsh=MWNpc2QwaWdqNnozdA==)
+[![LinkedIn](www.linkedin.com/in/matheus-h-slv)
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhsilvaworks)
 
 <p align="center">
@@ -30,8 +30,8 @@ Um dos meus principais objetivos é **ingressar em um estágio** que me permita 
 
 * **Linguagens de Programação:**
     * `Python` 
-    * `HTML` (em aprendizado)
-    * `C` ( em aprendizado)
+    * `HTML`
+    * `C` 
 * **Conceitos Fundamentais:**
     * Lógica de Programação
     * Estrutura de Dados
@@ -39,6 +39,8 @@ Um dos meus principais objetivos é **ingressar em um estágio** que me permita 
 * **Áreas de Interesse:**
     * **Machine Learning**
     * Inteligência Artificial
+    * Dados
+    * back-end
 
 ---
 
